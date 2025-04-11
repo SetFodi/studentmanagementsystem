@@ -1,0 +1,9 @@
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.UI\bin\Debug\StudentManagement.UI.exe.config
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.UI\bin\Debug\StudentManagement.UI.exe
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.UI\bin\Debug\StudentManagement.UI.pdb
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.UI\obj\Debug\StudentManagement.UI.csproj.AssemblyReference.cache
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.UI\obj\Debug\StudentManagement.UI.Properties.Resources.resources
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.UI\obj\Debug\StudentManagement.UI.csproj.GenerateResource.cache
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.UI\obj\Debug\StudentManagement.UI.csproj.CoreCompileInputs.cache
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.UI\obj\Debug\StudentManagement.UI.exe
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.UI\obj\Debug\StudentManagement.UI.pdb

@@ -1,0 +1,12 @@
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\bin\Debug\StudentManagement.DAL.dll.config
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\bin\Debug\StudentManagement.DAL.dll
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\bin\Debug\StudentManagement.DAL.pdb
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\bin\Debug\EntityFramework.dll
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\bin\Debug\EntityFramework.xml
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\obj\Debug\StudentManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\obj\Debug\StudentManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\obj\Debug\StudentM.05F01CCF.Up2Date
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\obj\Debug\StudentManagement.DAL.dll
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.DAL\obj\Debug\StudentManagement.DAL.pdb

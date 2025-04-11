@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/StudentManagement.BLL" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/StudentManagement.BLL" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:2379/StudentService.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/StudentManagement.DAL" />
+  <xs:complexType name="PagedResultOfStudentksIDGJaW">
+    <xs:annotation>
+      <xs:appinfo>
+        <GenericType Name="PagedResultOf{0}{#}" Namespace="http://schemas.datacontract.org/2004/07/StudentManagement.BLL" xmlns="http://schemas.microsoft.com/2003/10/Serialization/">
+          <GenericParameter Name="Student" Namespace="http://schemas.datacontract.org/2004/07/StudentManagement.DAL" />
+        </GenericType>
+      </xs:appinfo>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/StudentManagement.DAL" minOccurs="0" name="Results" nillable="true" type="q1:ArrayOfStudent" />
+      <xs:element minOccurs="0" name="TotalCount" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PagedResultOfStudentksIDGJaW" nillable="true" type="tns:PagedResultOfStudentksIDGJaW" />
+</xs:schema>

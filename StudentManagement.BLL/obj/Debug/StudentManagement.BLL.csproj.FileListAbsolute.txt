@@ -1,0 +1,15 @@
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\bin\Debug\StudentManagement.BLL.dll.config
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\bin\Debug\StudentManagement.BLL.dll
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\bin\Debug\StudentManagement.BLL.pdb
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\bin\Debug\EntityFramework.dll
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\bin\Debug\StudentManagement.DAL.dll
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\bin\Debug\StudentManagement.DAL.pdb
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\bin\Debug\StudentManagement.DAL.dll.config
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\bin\Debug\EntityFramework.xml
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\obj\Debug\StudentManagement.BLL.csproj.AssemblyReference.cache
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\obj\Debug\StudentManagement.BLL.csproj.CoreCompileInputs.cache
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\obj\Debug\StudentM.6D2CE085.Up2Date
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\obj\Debug\StudentManagement.BLL.dll
+C:\Users\lukaf\source\repos\StudentManagementSystem\StudentManagement.BLL\obj\Debug\StudentManagement.BLL.pdb
